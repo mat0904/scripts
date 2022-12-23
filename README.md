@@ -1,2 +1,2 @@
-des scripts ma foi fort sympatique
-et c avec dnf donc fé pa le con mgl
+des scripts ma foi fort utile
+juste fé gaffe car c sou fedora (dnf ta capté) donc fé pa le con mgl
